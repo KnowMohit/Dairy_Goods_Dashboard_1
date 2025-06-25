@@ -13,6 +13,11 @@ The **Dairy Goods Analysis Dashboard** is an interactive Power BI project develo
 
 ---
 
+## 🎯 Objective
+- Analyzing the performance of dairy farms based on location, land area, and cow population.
+- Understanding the sales and distribution patterns of different dairy products across various brands and regions.
+---
+
 
 ## 📊 Dashboard Visuals
 
